@@ -1,0 +1,16 @@
+{
+  "name": "adityafullstackdeveloper/stripe-payments",
+  "description": "Stripe plan payments for seo",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Aditya Kumar",
+      "email": "contact@adityadev.in"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "stripe/stripe-php": "^v7.128"
+  }
+}
